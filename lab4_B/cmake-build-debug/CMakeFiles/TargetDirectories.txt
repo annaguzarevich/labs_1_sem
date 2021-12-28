@@ -1,0 +1,3 @@
+C:/Users/annag/CLionProjects/lab4_B/cmake-build-debug/CMakeFiles/laba_4_B.dir
+C:/Users/annag/CLionProjects/lab4_B/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/annag/CLionProjects/lab4_B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
