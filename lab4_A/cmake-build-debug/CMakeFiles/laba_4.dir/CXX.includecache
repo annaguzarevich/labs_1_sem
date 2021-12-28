@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/annag/CLionProjects/lab4_A/compare.cpp
+compare.h
+C:/Users/annag/CLionProjects/lab4_A/compare.h
+
+C:/Users/annag/CLionProjects/lab4_A/compare.h
+
+C:/Users/annag/CLionProjects/lab4_A/functions.cpp
+iostream
+-
+functions.h
+C:/Users/annag/CLionProjects/lab4_A/functions.h
+
+C:/Users/annag/CLionProjects/lab4_A/functions.h
+
+C:/Users/annag/CLionProjects/lab4_A/main.cpp
+iostream
+-
+test.h
+C:/Users/annag/CLionProjects/lab4_A/test.h
+functions.h
+C:/Users/annag/CLionProjects/lab4_A/functions.h
+compare.h
+C:/Users/annag/CLionProjects/lab4_A/compare.h
+
+C:/Users/annag/CLionProjects/lab4_A/test.cpp
+test.h
+C:/Users/annag/CLionProjects/lab4_A/test.h
+cassert
+-
+
+C:/Users/annag/CLionProjects/lab4_A/test.h
+cassert
+-
+functions.h
+C:/Users/annag/CLionProjects/lab4_A/functions.h
+compare.h
+C:/Users/annag/CLionProjects/lab4_A/compare.h
+
